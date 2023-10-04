@@ -1,4 +1,4 @@
 transformers
 sentencepiece
 streamlit
-pytorch
+torch
