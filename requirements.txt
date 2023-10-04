@@ -1,4 +1,4 @@
 transformers
 sentencepiece
 streamlit
-tensorflow
+pytorch
